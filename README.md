@@ -90,7 +90,7 @@ EJS_BETA = true;
 
 **[TurboGrafs 16 PC Engine][TurboGrafs-16 / PC Engine]**   | 
 **[WanderSwan Color][WanderSwan / Color]**   | 
-**[Neo Geo Poket][Neo Geo Poket]**   | 
+**[Neo Geo Pocket][Neo Geo Pocket]**   | 
 **[PlayStation]**   | 
 **[Arcade]**   | 
 **[MSX]**   | 
@@ -118,7 +118,7 @@ EJS_BETA = true;
 [3DO]: docs/Systems/3DO.md
 [Sega 32X]: docs/Systems/Sega%2032X.md
 [Atari Jaguar]: docs/Systems/Atari%20Jaguar.md
-[Neo Geo Poket]: docs/Systems/Neo%20Geo%20Poket.md
+[Neo Geo Pocket]: docs/Systems/Neo%20Geo%20Poket.md
 [Sega Game Gear]: docs/Systems/Sega%20Game%20Gear.md
 [Sega Saturn]: docs/Systems/Sega%20Saturn.md
 [Atari 7800]: docs/Systems/Atari%207800.md
